@@ -1,0 +1,9 @@
+[
+  {
+        "id": "sort_order",
+        "type": "enum",
+        "label": "Sort Order",
+        "values": ["by Air Date", "Alphabetically", "by Watched Date"],
+        "default": "by Air Date"
+  }
+]
